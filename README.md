@@ -7,11 +7,16 @@
 Проект разделен на несколько частей:
 
 - **ClassLibrary** — бизнес-логика
-![кл](https://github.com/user-attachments/assets/7535a215-858f-4b04-a25a-18054af1e874)
+
+  ![кл](https://github.com/user-attachments/assets/7535a215-858f-4b04-a25a-18054af1e874)
+
 - **ConsoleApp** — консольный интерфейс
-- <img width="280" height="322" alt="image" src="https://github.com/user-attachments/assets/5e3d9027-ca0a-46cc-8764-ed82079dbd62" />
+
+  ![консоль](https://github.com/user-attachments/assets/5e3d9027-ca0a-46cc-8764-ed82079dbd62)
+
 - **WinFormsApp** — графический интерфейс
-![вф](https://github.com/user-attachments/assets/beafe9ba-dd12-4786-9cdc-fcf3bc276bb8)
+
+  ![вф](https://github.com/user-attachments/assets/beafe9ba-dd12-4786-9cdc-fcf3bc276bb8)
 В WinForms приложение построено на одной главной форме. Все остальные части интерфейса реализованы с помощью UserControl, которые подгружаются, управляются и сменяются внутри этой формы.
 
 ## 🚀 Возможности
