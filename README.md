@@ -23,7 +23,7 @@
 ## 🚀 Возможности
 
 - 📝 Регистрация нового пользователя с валидацией
-- 
+  
 ![Регистрация](https://github.com/user-attachments/assets/859d304e-472c-4868-b0e1-41dfb3308eb5)
 ![Регистрация консоль](https://github.com/user-attachments/assets/d8d446d9-604e-4339-a940-5f3e0b0861c1)
 
